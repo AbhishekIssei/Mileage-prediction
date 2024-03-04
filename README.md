@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekKotian
-- 👀 I’m interested in Game development..
+- 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning ..Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..abhishek.k.bangera@gmail.com
